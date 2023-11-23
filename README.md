@@ -94,13 +94,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Silke          | Bink               | Phon            | Zoë              | Mees    |
-  | ---            | ---                | ----            | ---              | ---     |
-  |breakdownschets | divjes kijken      |GIF op site stil | detailvraag/     |Font face|
-  |naar kijken     |                    |kunnen zetten    | html css vraag   |         |
-  | ...            | ...                | ----            | ...              |         |
-  | ...            | ...                |button in button | ...              |         |
-
+  | Silke                       | Bink               | Phon                          | Zoë                        | Mees    |
+  | ---                         | ---                | ----                          | ---                        | ---     |
+  |breakdownschets naar kijken  | divjes kijken      |GIF op site stil kunnen zetten | detailvraag/html css vraag |Font face|
+  |                             |                    | ----                          |                            |         |
+  | ...                         | ...                |  button in button             | ...                        |         |
+  | ...                         | ...                |                               | ...                        |         |
+ 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
