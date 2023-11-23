@@ -37,7 +37,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-  apple.com
+  <a href="https://www.apple.com/nl/">apple.com</a>
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepage  
   <img src="readme-images/homepage.png" width="375px" alt="homepage van apple">
