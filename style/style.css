@@ -1,0 +1,132 @@
+:root {
+    --hoofdkleur:black;
+    --achtergrondkleur:white;
+    --body-fonts:'Inter', sans-serif;;
+}
+/*@media (prefers-color-scheme:dark) 
+{
+    :root{
+        --hoofdkleur:white;
+        --achtergrondkleur:black;
+
+    }
+}
+*/
+
+
+
+header img {
+width: 5.3vw;
+padding: 1.5em 0 0 1.7em;
+}
+
+nav ul li {
+    font-family: var(--body-fonts);
+    list-style: none;
+    font-size: 4em;
+    padding-top: 0.6em;
+    padding-left: 7.5vw;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    color:var(--hoofdkleur);
+}
+
+
+
+p {
+    font-family: var(--body-fonts);
+    font-weight: 400;
+    color:var(--hoofdkleur)
+}
+
+body {
+    background-color: var(--achtergrondkleur);
+}
+
+section:nth-of-type(2) {
+    height: 80em;
+    background-color: black;
+}
+
+section:nth-of-type(2) h2 {
+    font-family: var(--body-fonts);
+    font-weight: 500;
+    font-size: 5em;
+    color: white;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(2) h3{
+    font-family: var(--body-fonts);
+    font-weight: 400;
+    font-size: 2.5em;
+    color: white;
+    text-align: center;
+    margin-top: -2.5vh;
+}
+
+section:nth-of-type(2) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 2em;
+    color: cornflowerblue;
+    padding-left: 2em;
+    text-align: center;
+}
+
+section:nth-of-type(3) {
+    height: 80em;
+    background-color: white;
+}
+
+section:nth-of-type(3) h2 {
+    font-family: var(--body-fonts);
+    font-weight: 500;
+    font-size: 5em;
+    color: black;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(3) h3{
+    font-family: var(--body-fonts);
+    font-weight: 400;
+    font-size: 2.5em;
+    color: black;
+    text-align: center;
+    margin-top: -2.5vh;
+}
+
+section:nth-of-type(3) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 2em;
+    color: cornflowerblue;
+    padding-left: 2em;
+
+}
+
+footer {
+    align-content: center;
+    background-color: whitesmoke;
+}
+
+footer ol {
+    padding-left: 9vw;
+}
+
+footer ol li {
+    width: 90%;
+    align-items: center;
+    font-family: var(--body-fonts);
+    font-weight: 300;
+    font-size: 0.72em;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    color: grey;
+}
