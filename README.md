@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: <br>
   <img src="readme-images/screenreader1.jpg" width="375px" alt="afbeelding 1 van de screenreader">
   <img src="readme-images/screenreader2.jpg" width="375px" alt="afbeelding 2 van de screenreader">
 
