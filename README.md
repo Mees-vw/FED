@@ -85,7 +85,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -118,7 +118,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -128,11 +128,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Silke                       | Phon                                          | Zoë                          | Mees                                             |
+  | ---                         | ----                                          | ---                          | ---                                              |
+  |                             |iets responsive maken, hoe?                    | button in het midden krijgen |twee a elementen naast elkaar alignen en centreren|
+  |                             |----                                           | ----                         |                                                  |
+  | ...                         | moet in elke css de root aangesproken worden? |een verticale schuifbare lijst|                                                  |
+  | ...                         |                                               | ...                          |                                                  |
 
 
   ### Verslag van meeting
