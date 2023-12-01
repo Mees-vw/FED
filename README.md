@@ -128,12 +128,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Silke                       | Phon                                          | Zoë                          | Mees                                             |
-  | ---                         | ----                                          | ---                          | ---                                              |
-  |                             |iets responsive maken, hoe?                    | button in het midden krijgen |twee a elementen naast elkaar alignen en centreren|
-  |                             |----                                           | ----                         |                                                  |
-  | ...                         | moet in elke css de root aangesproken worden? |een verticale schuifbare lijst|                                                  |
-  | ...                         |                                               | ...                          |                                                  |
+  | Silke                       | Phon                                          | Zoë                          | Mees                                                  |
+  | ---                         | ----                                          | ---                          | ---                                                   |
+  |                             |iets responsive maken, hoe?                    | button in het midden krijgen |twee a elementen naast elkaar alignen en centreren     |
+  |                             |----                                           | ----                         | ----                                                  |
+  | ...                         | moet in elke css de root aangesproken worden? |een verticale schuifbare lijst|Een gif rippen van apple en implementeren in eigen site|
+  | ...                         |                                               | ...                          |                                                       |
 
 
   ### Verslag van meeting
