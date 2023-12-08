@@ -118,7 +118,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 2 (week 3)
 
-<details open>
+<details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -166,7 +166,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 3 (week 4)
 
-<details>
+<details open>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -176,12 +176,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+| Phon                                                   | Zoë                          | Mees |
+| ----                                                   | ---                          | ---  |
+|hoe maak je een deel van een section een andere kleur?  | section in een section       |      |
+|----                                                    | ----                         | ---- |
+|Hoe maak je een section responsive/groeit mee met scherm|dropdownmenu en een schuifbalk|      |
+|                                                        | ...                          |      |
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
