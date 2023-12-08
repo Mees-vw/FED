@@ -1,6 +1,4 @@
-var openButton = document.querySelector("header > button");
-
-console.log(openButton);
+var openButton = document.querySelector("header section > button");
 
 openButton.onclick = openMenu;
 
