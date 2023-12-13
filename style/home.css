@@ -1,0 +1,325 @@
+main section {
+    margin-bottom: 1em;
+}
+
+section section a:hover {
+ text-decoration: underline;
+}
+
+section:nth-of-type(2) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+    padding-top: 2em;
+}
+
+section:nth-of-type(2) h2 {
+    color: white;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(2) h3{
+    color: white;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+section:nth-of-type(2) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(2) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+}
+
+section:nth-of-type(2) img {
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(3) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section:nth-of-type(3) img:first-of-type {
+    width: 7em;
+    padding-top: 3em;
+    padding-bottom: .5em;
+    filter: invert(0);
+}
+
+section:nth-of-type(3) img:nth-of-type(2) {
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(3) h3{
+    color: white;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+section:nth-of-type(3) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+}
+
+section:nth-of-type(3) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    /* justify-content: center; */
+}
+
+section:nth-of-type(4) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+section:nth-of-type(4) img:first-of-type {
+    width: 7em;
+    padding-top: 2em;
+    padding-bottom: .5em;
+}
+
+section:nth-of-type(4) img:nth-of-type(2) {
+    width: 100%;
+}
+
+section:nth-of-type(4) h3{
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+section:nth-of-type(4) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+}
+
+section:nth-of-type(4) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(5) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+}
+
+section:nth-of-type(5) h2 {
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(5) h3{
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+    color: var(--hoofdkleur);
+    text-align: center;
+}
+
+section:nth-of-type(5) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(5) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+    display: flex;
+
+}
+
+section:nth-of-type(5) img{
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(6) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+}
+
+section:nth-of-type(6) h2 {
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(6) h3{
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+section:nth-of-type(6) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(6) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+section:nth-of-type(6) img {
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(7) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+}
+
+section:nth-of-type(7) h2 {
+    color: white;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(7) h3{
+    color: white;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+section:nth-of-type(7) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+section:nth-of-type(7) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(7) img {
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(8) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+}
+
+section:nth-of-type(8) h2 {
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 5vh;
+}
+
+section:nth-of-type(8) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+
+section:nth-of-type(8) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    padding-top: 2vh;
+    color: cornflowerblue;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+section:nth-of-type(8) img {
+    width: 100%;
+    filter: invert(0);
+}
+
+section:nth-of-type(9) {
+    height: 32em;
+    background-color: var(--achtergrondkleur3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+section:nth-of-type(9) img:first-of-type {
+    width: 7em;
+    padding-top: 2em;
+    padding-bottom: .5em;
+}
+
+section:nth-of-type(9) img:nth-of-type(2) {
+    width: 100%;
+}
+
+section:nth-of-type(9) h3{
+    color: var(--hoofdkleur);
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+    width: 80%;
+}
+
+section:nth-of-type(9) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: 1em;
+    color: cornflowerblue;
+}
+
+section:nth-of-type(9) section {
+    display:flex;
+    padding-top: 0.5em;
+    flex-direction: row;
+    gap:1.5em;
+    justify-content: center;
+}
+

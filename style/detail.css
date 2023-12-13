@@ -1,0 +1,409 @@
+header {
+    background-color: var(--achtergrondkleur2);
+}
+
+header button { 
+    background-color: var(--achtergrondkleur2);
+}
+
+nav {
+    background-color: var(--achtergrondkleur2);
+}
+
+body {
+    background-color: var(--achtergrondkleur2);
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 2.5em;
+}
+
+h2 {
+    font-size: 1.25em;
+    color: var(--hoofdkleur2);
+    padding-top: 3em;
+    margin: 0 auto;
+    width: 90%;
+}
+
+main section:first-of-type {
+    padding-top: 3.5em;
+    position: relative;
+    height: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--achtergrondkleur);
+}
+
+main section:first-of-type p {
+    font-size: .8em;
+    text-align: center;
+    width: 80%;
+    right: 10%;
+    left: 10%;
+}
+
+main svg {
+    fill: rgb(225, 0, 0);
+}
+
+span {
+    color: rgb(225, 0, 0);
+}
+
+main section:nth-of-type(2) {
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+main section:nth-of-type(2) article {
+    display: flex;
+    flex-direction: row;
+    padding-top: 1em;
+    flex-wrap: wrap;
+}
+
+main section:nth-of-type(2) img {
+    height: 2em;
+    width: 2em;
+    filter: invert(0);
+}
+
+main section:nth-of-type(2) svg {
+    width: 2em;
+}
+
+main section:nth-of-type(2) p{
+    font-size: 0.8em;
+    padding-left: .5em;
+    font-weight: 500;
+} 
+
+main section:nth-of-type(2) a {
+    text-decoration: none;
+    font-family: var(--body-fonts);
+    font-size: .8em;
+    color: cornflowerblue;
+    padding-left: 3em;
+    margin-top: -1.2em;
+}
+
+main section:nth-of-type(3) {
+    padding-top: 3em;
+    margin: 0 auto;
+    width: 90%;
+}
+
+main section:nth-of-type(3) ul {
+    list-style: none;
+    display: flex;
+    overflow: scroll;
+  
+}
+
+/* code voor scrollbar verbergen hieronder van https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
+
+main section:nth-of-type(3) ul::-webkit-scrollbar {
+    display: none;
+}
+
+main section:nth-of-type(3) ul li {
+    padding-right: 1em;
+    text-align: center;
+}
+
+main section:nth-of-type(3) ul li img {
+    width: 6em;
+    padding-bottom: .5em;
+    filter: invert(0);
+}
+
+main section:nth-of-type(3) ul li p {
+    font-size: .8em;
+}
+
+main section:nth-of-type(4) {
+    padding-top: 1.5em;
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+main section:nth-of-type(4)::-webkit-scrollbar {
+    display: none;
+}
+
+main section:nth-of-type(4) article {
+    background-color: var(--achtergrondkleur4);
+    height: 22em;
+    width: 16em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+    margin-bottom: 1em;
+}
+
+main section:nth-of-type(4) article:hover {
+    scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(4) article h3 {
+    padding-top: 2em;
+    font-weight: 500;
+    padding-left: 1em;
+}
+
+main section:nth-of-type(4) article p {
+    padding-top: .5em;
+    font-weight: 300;
+    font-size: 1em;
+    padding-left: 1em;
+}
+
+main section:nth-of-type(4) article img {
+    width: 16em;
+    border-radius: 1em;
+    filter: invert(0);
+}
+
+main section:nth-of-type(5) {
+    padding-top: 1.5em;
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+main section:nth-of-type(5)::-webkit-scrollbar {
+    display: none;
+}
+
+main section:nth-of-type(5) article {
+    background-color: var(--achtergrondkleur);
+    height: 22em;
+    width: 16em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+    margin-bottom: 1em;
+}
+
+main section:nth-of-type(5) article:hover {
+    scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(5) article:first-of-type {
+    background-color: var(--achtergrondkleur4);
+}
+
+main section:nth-of-type(5) article h3 {
+    padding-top: 2em;
+    font-weight: 500;
+    padding-left: 1em;
+    margin-right: 1em;
+}
+
+main section:nth-of-type(5) article h4 {
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    margin-right: 2.5em;
+}
+
+main section:nth-of-type(5) article p {
+    padding-top: 2em;
+    font-weight: 300;
+    font-size: .8em;
+    padding-left: 1.5em;
+}
+
+main section:nth-of-type(5) article:nth-of-type(3) p {
+    padding-top: 3em;
+    font-weight: 300;
+    font-size: .8em;
+    padding-left: 1.5em;
+}
+
+main section:nth-of-type(5) article:nth-of-type(5) p {
+    padding-top: 3em;
+    font-weight: 300;
+    font-size: .8em;
+    padding-left: 1.5em;
+}
+
+main section:nth-of-type(5) article:first-of-type img {
+    width: 16em;
+    border-radius: 1em;
+    padding: 0;
+    filter: invert(0);
+}
+
+main section:nth-of-type(5) article img {
+    width: 10em;
+    padding: 2em 3em 2em 3em;
+    filter: invert(0);
+}
+
+main section:nth-of-type(6) {
+    padding-top: 1.5em;
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding-bottom: 2em;
+}
+
+main section:nth-of-type(6)::-webkit-scrollbar {
+    display: none;
+}
+
+
+main section:nth-of-type(6) article article {
+    background-color: var(--achtergrondkleur);
+    margin-bottom: 1em;
+    height: 11em;
+    width: 16.5em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+
+}
+
+
+ main section:nth-of-type(6) article article:hover {
+     scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(6) svg {
+    width: 2.5em;
+    padding: .5em 17em 0 1em;
+}
+
+main section:nth-of-type(6) article article h3 {
+    font-weight: 500;
+    padding-left: 1em;
+    margin-right: 1em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(3) {
+    background-color: var(--achtergrondkleur);
+    height: 22em;
+    width: 16em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+}
+
+main section:nth-of-type(6) article:nth-of-type(3):hover {
+    scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(6) article:nth-of-type(3) h3 {
+    padding-top: 2em;
+    font-weight: 500;
+    padding-left: 1em;
+    margin-right: 1em;
+    font-size: 1em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(3) p {
+    padding-top: .5em;
+    font-weight: 300;
+    font-size: .9em;
+    padding-left: 1em;
+    margin-right: 1.5em;
+    padding-bottom: 1.1em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(3) img {
+    width: 16em;
+    border-radius: 1em;
+    padding: 0;
+    filter: invert(0);
+}
+
+main section:nth-of-type(6) article:nth-of-type(4) {
+    background-color: var(--achtergrondkleur);
+    height: 22em;
+    width: 16em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+}
+
+main section:nth-of-type(6) article:nth-of-type(4):hover {
+    scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(6) article:nth-of-type(4) h3 {
+    padding-top: 2em;
+    font-weight: 500;
+    padding-left: 1em;
+    margin-right: 1em;
+    font-size: 1em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(4) p {
+    padding-top: .5em;
+    font-weight: 300;
+    font-size: .9em;
+    padding-left: 1em;
+    margin-right: 5.5em;
+    padding-bottom: 1.1em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(4) img {
+    width: 16em;
+    border-radius: 1em;
+    padding: 0;
+    filter: invert(0);
+}
+
+main section:nth-of-type(6) article:nth-of-type(5) {
+    background-color: var(--achtergrondkleur);
+    height: 22em;
+    width: 16em;
+    border-radius: 1em;
+    margin-right: 1em;
+    box-shadow: .05em .05em .5em rgba(142, 142, 142, 0.3);
+    transition: .3s;
+}
+
+main section:nth-of-type(6) article:nth-of-type(5):hover {
+    scale: 1.01;
+    box-shadow: .05em .05em .7em rgba(74, 74, 74, 0.3);
+}
+
+main section:nth-of-type(6) article:nth-of-type(5) h3 {
+    padding-top: 2em;
+    font-weight: 500;
+    padding-left: 1em;
+    margin-right: 1em;
+    font-size: 1em;
+    padding-bottom: .9em;
+}
+
+main section:nth-of-type(6) article:nth-of-type(5) img {
+    width: 16em;
+    border-radius: 1em;
+    padding: 0;
+    filter: invert(0);
+}
