@@ -207,15 +207,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb geleerd hoe je een donker thema kan maken en hoe je gemakkelijk een pagina kan stylen zonder classes, divjes of id's
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/donker_thema.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Het was niet gelukt om de icon van het hamburgermenu te laten transformeren tot een kruisje, om een of andere reden verpestte dat de rest van het menu
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/hbmenu.png" width="375px" alt="bummer">
 </details>
 
 
@@ -231,7 +231,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. [bron 1](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp )https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp 
   2. bron 2
   3. ...
 
