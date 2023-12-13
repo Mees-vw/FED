@@ -45,7 +45,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  <br>
 
-  <img src="readme-images/Store.pdf" width="375px" alt="store pagina van apple">
+  <img src="readme-images/Store.png" width="375px" alt="store pagina van apple">
  
 </details>
 
