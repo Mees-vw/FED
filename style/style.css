@@ -37,6 +37,7 @@
     --achtergrondkleur2: whitesmoke;
     --achtergrondkleur3: rgb(250, 250, 250);
     --achtergrondkleur4: rgb(248, 248, 248);
+    --achtergrondkleur5: black;
     --body-fonts:'sfpro', sans-serif;
 }
 @media (prefers-color-scheme:dark) 
@@ -48,6 +49,7 @@
         --achtergrondkleur2: rgb(34, 34, 34);
         --achtergrondkleur3: rgb(33, 33, 33);
         --achtergrondkleur4: rgb(30, 30, 30);
+        --achtergrondkleur5: rgb(33, 33, 33);
     }
 
     header img {

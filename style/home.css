@@ -8,7 +8,7 @@ section section a:hover {
 
 section:nth-of-type(2) {
     height: 32em;
-    background-color: var(--achtergrondkleur3);
+    background-color: var(--achtergrondkleur5);
     padding-top: 2em;
 }
 
@@ -47,7 +47,7 @@ section:nth-of-type(2) img {
 
 section:nth-of-type(3) {
     height: 32em;
-    background-color: var(--achtergrondkleur3);
+    background-color: var(--achtergrondkleur5);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -209,7 +209,7 @@ section:nth-of-type(6) img {
 
 section:nth-of-type(7) {
     height: 32em;
-    background-color: var(--achtergrondkleur3);
+    background-color: var(--achtergrondkleur5);
 }
 
 section:nth-of-type(7) h2 {
