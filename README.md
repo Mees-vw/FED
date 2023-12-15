@@ -155,13 +155,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
+  
+
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
 </details>
 
 
-
+<img src="readme-images/IMG_2115.JPG" width="375px" alt="uitomst opdracht 1">
 
 
 ## Voortgang 3 (week 4)
