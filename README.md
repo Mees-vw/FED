@@ -155,15 +155,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
-  
+  <img src="readme-images/IMG_2115.JPG" width="375px" alt="">
+  <img src="readme-images/IMG_2116.JPG" width="375px" alt="">
+  <img src="readme-images/IMG_2117.JPG" width="375px" alt="">
+  <img src="readme-images/IMG_2118.JPG" width="375px" alt="">
+  <img src="readme-images/IMG_2119.JPG" width="375px" alt="">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Wat is er verbeterd? er is een dark thema toegevoegd, de code is semantisch correct geschreven, voor een screenreader is het goed te lezen en de kleurcontrasten kloppen ook, doordat er geen videos zijn speelt er ook niks automatisch op de achtergrond.
 
 </details>
 
 
-<img src="readme-images/IMG_2115.JPG" width="375px" alt="uitomst opdracht 1">
+
 
 
 ## Voortgang 3 (week 4)
